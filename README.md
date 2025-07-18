@@ -11,8 +11,11 @@ Interface CLI pour ajouter et afficher les mots de passe.
 Structure du projet
 
 Langage : Java 21
+
 Dépendances : Maven, PostgreSQL, Gson
+
 Conteneurisation : Docker et Docker Compose
+
 Structure des dossiers :
 password-manager/
 ├── src/
