@@ -130,5 +130,5 @@ Prochaines étapes
 
 Ajouter des fonctionnalités comme la suppression ou la modification des mots de passe.
 Implémenter une interface graphique avec JavaFX.
-Étendre le projet avec un analyseur de trafic réseau (par exemple, avec Pcap4J).
+
 
